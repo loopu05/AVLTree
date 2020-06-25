@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.exe
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.deps.json
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.runtimeconfig.json
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.runtimeconfig.dev.json
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.dll
+C:\Users\User\source\repos\AVLTree\AVLTree\bin\Debug\netcoreapp3.1\AVLTree.pdb
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.AssemblyInfo.cs
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.dll
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.pdb
+C:\Users\User\source\repos\AVLTree\AVLTree\obj\Debug\netcoreapp3.1\AVLTree.genruntimeconfig.cache
